@@ -1,0 +1,20 @@
+{
+  "name": "psql",
+  "version": "1.0.0",
+  "description": "exercie with node-postgres library",
+  "main": "table.mjs",
+  "scripts": {
+    "fillTable": "node fillTable.mjs",
+    "dev": "nodemon table.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "didi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
