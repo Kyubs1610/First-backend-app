@@ -1,4 +1,3 @@
 .env
-users.mjs
 node_modules
 package-lock.json
