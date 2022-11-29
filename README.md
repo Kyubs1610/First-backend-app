@@ -14,3 +14,8 @@ npm install pg
 - Using a for loop, fill in the table using Node.js
 
 ![Screenshot](Capture.PNG)
+
+
+- Launch ``` node table.mjs ``` in order to create a table
+- Launch ``` node filltable.mjs ``` for pushing the data
+
